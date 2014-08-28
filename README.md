@@ -2,4 +2,4 @@ twitterbot
 ==========
 
 
-A auto-follow/RT bot.
+An auto-follow/RT bot.
